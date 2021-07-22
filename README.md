@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Whitroy
-- 👀 I’m interested in Game Development and Machine Learning
+- 👀 I’m interested in Game, web Development and Machine Learning
 - 🌱 I’m currently learning Data Structure
 - 💞️ I’m looking to collaborate on Game Development and Web Devlopment Projects
 - 📫 How to reach me pratham.kumar_cs.da19@gla.ac.in
